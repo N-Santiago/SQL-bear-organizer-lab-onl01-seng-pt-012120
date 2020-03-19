@@ -6,3 +6,4 @@ INSERT INTO bear (name, age, gender, color, temperament, alive) VALUES ("Tabitha
 
 NSERT INTO bear (name, age, gender, color, temperament, alive) VALUES ("Sergeant Brown", 10, "male", "brown", "ferocious", 0)
 
+NSERT INTO bear (name, age, gender, color, temperament, alive) VALUES ("Sergeant Brown", 10, "male", "brown", "ferocious", 0)
