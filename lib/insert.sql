@@ -2,4 +2,5 @@ INSERT INTO bear (name, age, gender, color, temperament, alive) VALUES ("Mr. Cho
 
 INSERT INTO bear (name, age, gender, color, temperament, alive) VALUES ("Rowdy", 3, "male", "brown", "ferocious", 1)
 
-INSERT INTO bear (name, age, gender, color, temperament, alive) VALUES ("Rowdy", 3, "male", "brown", "ferocious", 1)
+INSERT INTO bear (name, age, gender, color, temperament, alive) VALUES ("Tabitha", 2, "female", "black", "friendly", 1)
+
