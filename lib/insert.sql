@@ -4,3 +4,4 @@ INSERT INTO bear (name, age, gender, color, temperament, alive) VALUES ("Rowdy",
 
 INSERT INTO bear (name, age, gender, color, temperament, alive) VALUES ("Tabitha", 2, "female", "black", "friendly", 1)
 
+NSERT INTO bear (name, age, gender, color, temperament, alive) VALUES ("", 2, "female", "black", "friendly", 1)
