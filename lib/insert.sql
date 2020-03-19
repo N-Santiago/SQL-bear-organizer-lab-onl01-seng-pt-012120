@@ -10,4 +10,6 @@ NSERT INTO bear (name, age, gender, color, temperament, alive) VALUES ("Melissa"
 
 NSERT INTO bear (name, age, gender, color, temperament, alive) VALUES ("Grinch", 8, "male", "white", "brave", 1)
 
-NSERT INTO bear (name, age, gender, color, temperament, alive) VALUES ("Grinch", 8, "male", "white", "brave", 1)
+NSERT INTO bear (name, age, gender, color, temperament, alive) VALUES ("Wendy", 2, "female", "white", "quite", 1)
+
+
