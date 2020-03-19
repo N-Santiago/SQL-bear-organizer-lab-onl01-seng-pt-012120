@@ -12,5 +12,5 @@ INSERT INTO bear (name, age, gender, color, temperament, alive) VALUES ("Grinch"
 
 INSERT INTO bear (name, age, gender, color, temperament, alive) VALUES ("Wendy", 2, "female", "white", "quite", 1)
 
-NSERT INTO bear (name, age, gender, color, temperament, alive) VALUES (NULL, 6, "male", "black", "ferocious", 1)
+INSERT INTO bear (name, age, gender, color, temperament, alive) VALUES (NULL, 6, "male", "black", "ferocious", 1)
 
